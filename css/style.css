@@ -924,6 +924,30 @@ header {
 }
 
 @media (max-width: 1200px) {
+  .text-img1-main-block1-bottom h4{
+    padding-bottom: 69px;
+    padding-top: 75px;
+  }
+  .text-img1-main-block2-bottom h4{
+    padding-bottom: 99px;
+    padding-top: 75px;
+  }
+  .text-img1-main-block3-bottom h4{
+    padding-bottom: 99px;
+    padding-top: 75px;
+  }
+  .text-img1-main-block4-bottom h4{
+    padding-bottom: 99px;
+    padding-top: 75px;
+  }
+  .text-img1-main-block5-bottom h4{
+    padding-bottom: 99px;
+    padding-top: 75px;
+  }
+  .text-img1-main-block6-bottom h4{
+    padding-bottom: 66px;
+    padding-top: 75px;
+  }
   .header-bottom {
     height: 350px;
   }
